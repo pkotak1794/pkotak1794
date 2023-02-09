@@ -23,7 +23,7 @@ Welcome to my page!
 I am a Computer Science graduate student at CSUF.
 - :fairy: I am interested in web development and data analytics
 - :star: In my free time, I enjoy learning about new software, coding languages, and reading. 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-kotak/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-kotak/)
 
 ---
 
