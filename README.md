@@ -28,7 +28,7 @@ I am a Computer Science graduate student at CSUF.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-- :computer: C++, C, Python, Microsoft Office, InDesign, etc. 
+- :computer: C++, C, Python, Figma, etc. 
 
 ---
 
