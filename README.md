@@ -29,8 +29,3 @@ I am a Computer Science graduate student at CSUF.
 
 ### :hammer_and_wrench: Languages and Tools :
 - :computer: C++, C, Python, Figma, etc. 
-
----
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pkotak1794&theme=dark&background=000000)](https://git.io/streak-stats)
